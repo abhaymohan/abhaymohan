@@ -1,10 +1,6 @@
 ### Hi there 👋
-
-<!--
-**abhaymohan/abhaymohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m learing web development and machine learning.
-- 🌱 I’m MERN stack technologies and machine learing.
--->
+👋 Hi, I'm @Abhay_Mohan_Srivastava
+🎓 I'm B.Tech 4th year CSE student.
+💻 I'm interested in Web Development (using mern stack) and Machine Learning
+📧 abhayms2018@gmail.com
+📱 https://www.linkedin.com/in/abhaymohan1/
